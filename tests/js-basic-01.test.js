@@ -24,7 +24,6 @@
 ? In Node, the scope of a global variable is the file that it is defined in.
 ?
 
-
 ? All of the variables and constants in this file are global variables.
 ? This is why we can access them anywhere after they are declared.
 ? We'll use this behavior to reuse some variables and constants multiple times
